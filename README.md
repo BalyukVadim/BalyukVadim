@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BalyukVadim
+- 👀 I’m interested in Frontend development and i love science of data
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me balyukvadim04@gmail.com
